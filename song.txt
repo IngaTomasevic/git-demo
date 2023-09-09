@@ -2,3 +2,8 @@ I am sitting
 in the morning
 I am thinking
 of the programming...
+
+I am learning
+version control with Git
+and practicing performing
+various operations ...
