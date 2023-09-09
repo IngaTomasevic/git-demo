@@ -7,5 +7,4 @@ I am learning
 version control with Git
 and practicing 
 
-The Git GUI allows
-to work with big amount of changes
+
