@@ -5,5 +5,7 @@ of the programming...
 
 I am learning
 version control with Git
-and practicing performing
-various operations ...
+and practicing 
+
+The Git GUI allows
+to work with big amount of changes
