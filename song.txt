@@ -18,3 +18,6 @@ some code from the local demo1-1
 
 + some code fromm the local demo1-1 goes in the stash
 red and green
+magenta
+
+yellow, gray, black
