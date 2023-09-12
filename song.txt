@@ -17,4 +17,8 @@ some code from the local demo1-1
 some code from the local demo1-1
 
 + some code fromm the local demo1-1 goes in the stash
+<<<<<<< Updated upstream
 green
+=======
+red code
+>>>>>>> Stashed changes
