@@ -7,4 +7,6 @@ I am learning
 version control with Git
 and practicing 
 
+Some text from the branch demo-1
+
 
