@@ -3,9 +3,21 @@ in the morning
 I am thinking
 of the programming...
 
+inserted some urgent code from the local demo1-1
+
 I am learning
 version control with Git
 and practicing 
 
-some code from local demo-1
+Some text from the branch main
+some text from the branhc demo-1
+some code from the remote demo-1
+some code from the local demo1-1
 
+some code from the local demo1-1
+
++ some code fromm the local demo1-1 goes in the stash
+red and green
+magenta
+
+yellow, gray, black
